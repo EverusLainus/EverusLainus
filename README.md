@@ -19,7 +19,15 @@ I'm Everus, a passionate Full Stack Web Developer and Mathematics enthusiast. Wi
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EverusLainus&theme=radical)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=EverusLainus.EverusLainus)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=EverusLainus)
+
+![Clones](https://img.shields.io/badge/Clones-1000-blue)
+
+![Views](https://img.shields.io/badge/Views-500-blue)
+
+![Profile views](https://gpvc.arturio.dev/EverusLainus)
+
+
 
 
 ![Commits Graph](https://activity-graph.herokuapp.com/graph?username=EverusLainus&theme=react-dark)
