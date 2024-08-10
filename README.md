@@ -1,7 +1,7 @@
 ### Welcome to My GitHub Profile
 
 
-I'm Everus, a passionate Full Stack Web Developer and Mathematics enthusiast. With a background in mathematics and a keen interest in programming, I enjoy exploring new technologies and solving complex problems
+I'm Everus, a passionate Developer and Mathematics enthusiast. With a background in mathematics and a keen interest in programming, I enjoy exploring new technologies and solving complex problems.
 
 
 ### Profile Summary
